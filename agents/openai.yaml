@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lab Report Writer"
+  short_description: "Generate template-aware lab reports"
+  default_prompt: "Use $lab-report-writer to create a complete lab report from my standard input folder, task book, template, sample report, and related files."
+policy:
+  allow_implicit_invocation: true

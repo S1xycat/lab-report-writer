@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+
+# Generated reports and archives
+*.docx
+*.pdf
+*.zip
+*.rar
+*.7z
+
+# Generated screenshots and logs
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.webp
+*.log
+*.tmp
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
